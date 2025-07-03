@@ -1,6 +1,6 @@
 
 
-<!--# 💫 About Me:
+💫 About Me:
 Hi there! I'm Ashutosh Zawar, currently pursuing my Master’s in Computer Science at the University of North Carolina at Charlotte.<br><br>💡 Learning: Diving deep into AI-driven automation, cloud-native data systems, and research-grade VR-biometric integrations.<br>💼 Experience: 2+ years in full-stack and data-driven development—worked on B2B SaaS platforms, cloud deployments, and research innovations in real-time data processing.<br>🔭 Research: Published in HTL Journal, led a VR-integrated biometric system for stress analysis with real-time sensor feedback.<br>💬 Passion: Building systems that blend intelligence, scale, and usability—from AI copilots to real-time data visualizations.<br>☕ Fun Fact: I can troubleshoot a Kubernetes cluster while brewing the perfect cup of coffee—precision is everything!
 
 
@@ -16,18 +16,3 @@ Hi there! I'm Ashutosh Zawar, currently pursuing my Master’s in Computer Scien
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-**AshutoshZawar/AshutoshZawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
